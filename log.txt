@@ -1,0 +1,12 @@
+03/06/2020 02:52:46 - https://random-status-code.herokuapp.com/_ online: false
+03/06/2020 02:52:48 - https://www.alura.com.br_ online: true
+03/06/2020 02:52:51 - https://www.youtube.com.br_ online: true
+03/06/2020 02:52:52 - https://www.google.com_ online: true
+03/06/2020 02:52:59 - https://random-status-code.herokuapp.com/_ online: false
+03/06/2020 02:53:00 - https://www.alura.com.br_ online: true
+03/06/2020 02:53:00 - https://www.youtube.com.br_ online: true
+03/06/2020 02:53:00 - https://www.google.com_ online: true
+03/06/2020 02:53:08 - https://random-status-code.herokuapp.com/_ online: true
+03/06/2020 02:53:09 - https://www.alura.com.br_ online: true
+03/06/2020 02:53:09 - https://www.youtube.com.br_ online: true
+03/06/2020 02:53:09 - https://www.google.com_ online: true
